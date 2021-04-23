@@ -1,3 +1,8 @@
+<h3>#This repository was copied: https://https://github.com/navin-hariharan/Master-Bomber</h3>
+
+<h2>For 1000 (SMS) I get 0 sms</h2>
+<h2>For  (CALLS) I get  sms</h2>
+
 <h1 align="center">Master-Bomber</h1>
 <p align="center">An open-source SMS/call/Mail bomber for Linux And Termux.</p><br>
 
@@ -43,8 +48,8 @@ Run these commands to run Master-Bomber
 ### > For Termux:
 ```
 pkg install git python
-git clone https://github.com/navin-hariharan/Master-Bomber
-cd Master-Bomber
+git clone https://github.com/EternalB-1/bomber-3
+cd bomber-3
 chmod +x Master-Bomber.sh
 ./Master-Bomber.sh
 ```
@@ -52,8 +57,8 @@ chmod +x Master-Bomber.sh
 ### > For Linux:
 ```
 sudo apt install git python
-git clone https://github.com/navin-hariharan/Master-Bomber
-cd Master-Bomber
+git clone https://github.com/EternalB-1/bomber-3
+cd bomber-3
 chmod +x Master-Bomber.sh
 ./Master-Bomber.sh
 ```
