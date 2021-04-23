@@ -1,7 +1,7 @@
 <h3>#This repository was copied: https://https://github.com/navin-hariharan/Master-Bomber</h3>
 
-<h2>For 1000 (SMS) I get 0 sms</h2>
-<h2>For  (CALLS) I get  sms</h2>
+<h2>Out of 1000 attempts, I received 0 SMS messages</h2>
+<h2>Out of  attempts, I received 0 calls</h2>
 
 <h1 align="center">Master-Bomber</h1>
 <p align="center">An open-source SMS/call/Mail bomber for Linux And Termux.</p><br>
