@@ -1,4 +1,4 @@
-<h3>#This repository was copied: https://https://github.com/navin-hariharan/Master-Bomber</h3>
+<h3>#This repository was copied: https://github.com/navin-hariharan/Master-Bomber</h3>
 
 <h2>Out of 1000 attempts, I received 0 SMS messages</h2>
 
